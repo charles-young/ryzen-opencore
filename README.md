@@ -17,13 +17,13 @@
 - Sleep not working
 
 ## Credits
-[OpenCore](https://github.com/acidanthera/OpenCorePkg)
-[AMD_Vanilla Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
-[Lilu](https://github.com/acidanthera/Lilu)
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC)
-[WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-[AppleALC](https://github.com/acidanthera/AppleALC)
-[AMDRyzenCPUPowerManagement](https://github.com/trulyspinach/SMCAMDProcessor)
-[AppleMCEReporterDisabler](https://github.com/AMD-OSX/AMD_Vanilla/blob/experimental-opencore/Extra/AppleMCEReporterDisabler.kext.zip)
-[SmallTreeIntel82576](https://github.com/khronokernel/SmallTree-I211-AT-patch)
-[MacProMemoryNotificationDisabler](https://github.com/IOIIIO/MacProMemoryNotificationDisabler)
+- [OpenCore](https://github.com/acidanthera/OpenCorePkg)
+- [AMD_Vanilla Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
+- [Lilu](https://github.com/acidanthera/Lilu)
+- [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+- [AppleALC](https://github.com/acidanthera/AppleALC)
+- [AMDRyzenCPUPowerManagement](https://github.com/trulyspinach/SMCAMDProcessor)
+- [AppleMCEReporterDisabler](https://github.com/AMD-OSX/AMD_Vanilla/blob/experimental-opencore/Extra/AppleMCEReporterDisabler.kext.zip)
+- [SmallTreeIntel82576](https://github.com/khronokernel/SmallTree-I211-AT-patch)
+- [MacProMemoryNotificationDisabler](https://github.com/IOIIIO/MacProMemoryNotificationDisabler)
