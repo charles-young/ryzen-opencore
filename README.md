@@ -7,7 +7,7 @@
 | CPU | AMD Ryzen 7 2700x |
 |Chipset | X370|
 | Motherboard | ASUS Crosshair VI Hero |
-| RAM | 32GB (2 x 16GB) Corsair Dominator Platinum 32GB (2 x 16GB) @ 3000MHz |
+| RAM | Corsair Dominator Platinum 32GB (2 x 16GB) @ 3000MHz |
 | GPU | AMD Vega Frontier Edition |
 | OS Disk (NVMe) | Samsung 960 Pro 512GB |
 | WiFi & Bluetooth | -- |
